@@ -11,6 +11,7 @@ Duration: July to August 2025
 Mentor: -
 
 Task 4 – Code Refactoring Report
+
 Project: Simple JavaScript To-Do List
 Before Refactor
 Used unclear single-letter variable and function names (a, b, c)
